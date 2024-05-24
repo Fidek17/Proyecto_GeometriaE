@@ -1,15 +1,15 @@
-### Proyecto_GeometriaE
+# Proyecto_GeometriaE
 ## **Calculadora de operaciones con vectores**
 
 Proyeto pensado para la materia de Geometría del Espacio.
 
-# Objetivo:
+### Objetivo:
 Crear una Calculadora de operaciones con vectores para facilitar y agilizar el procedimiento.
 
 
 Aprovechar los conocimientos obtenidos en la materia y juntarlos con los aprendidos en semestres anteriores para de esta forma generar código que nos permita hacer las operaciones con vectores de manera mucho más rápida aprovechando una herramienta tan útil como lo puede ser el lenguaje de *Python* por su versatilidad y sobre todo, por su capacidad de graficar los vectores generados en cuestión al final de la matriz.
 
-# Funcionalidad:
+### Funcionalidad:
 
 Primero se deberá hacer uso de las bibilotecas que nos ayudan, en su mayoria, a hacer más sencilo el graficar los resultados, ya entrando en código:
 1. Se crea una clase vector que contendrás las coordenadas del eje de las x, y, z.
@@ -23,14 +23,14 @@ Primero se deberá hacer uso de las bibilotecas que nos ayudan, en su mayoria, a
 
 8. Por ultimo en el **main** simplmemente creamos un menu para poder escoger que operacion se desea realizar, si se desea otra pareja de vectores o si se desea salir del programa, todo esto digitando el numero del menu.
 
-# Uso:
+### Uso:
 
 En mi caso me ayudo mucho para verificar si las operaciones de mi tarea y sus resultados eran los correctos, las operaciones fueron generadas a mano pero verficar sus resultados fue mucho más rapido y por esto mismo estoy convencido que le podremos dar uso a este material de trabajo más adelantado el semestre.
 
-# Conclusión: 
+### Conclusión: 
 Considero que es un proyecto no muy complicado o muy extenso pero de igual forma creo que su valia radica en el haber usado conocimientos anteriores para su desarrollo además de su innegable utilidad para esta materia al momento de las tareas y el que tendra a futuro. 
 
-==Código==
+### Código
 Con el siguiente link se llevará al usuario a una ventana de *Collab*, en esta página se puede ejecutar el programa sin problemas presionando el bóton de *play* en la esquina superior derecha.
 
 https://colab.research.google.com/drive/1ARABdFS6SE7qykPQD7DKWvjpkgZ6sb1E?usp=sharing
