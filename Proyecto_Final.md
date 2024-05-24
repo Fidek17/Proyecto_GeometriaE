@@ -30,5 +30,9 @@ En mi caso me ayudo mucho para verificar si las operaciones de mi tarea y sus re
 # Conclusión: 
 Considero que es un proyecto no muy complicado o muy extenso pero de igual forma creo que su valia radica en el haber usado conocimientos anteriores para su desarrollo además de su innegable utilidad para esta materia al momento de las tareas y el que tendra a futuro. 
 
+==Código==
+Con el siguiente link se llevará al usuario a una ventana de *Collab*, en esta página se puede ejecutar el programa sin problemas presionando el bóton de *play* en la esquina superior derecha.
+
+https://colab.research.google.com/drive/1ARABdFS6SE7qykPQD7DKWvjpkgZ6sb1E?usp=sharing
 
 
